@@ -650,7 +650,7 @@ li {
 
 /* MOBILE ///////////////////////////////////////////////////////////////////*/
 
-@media screen and (min-width: 360px) and (max-width: 400px) {
+@media screen and (min-width: 360px) and (max-width: 430px) {
   /* Container da pagina ////////////////////////////////////*/
   .page-container {
     max-width: 375px;
