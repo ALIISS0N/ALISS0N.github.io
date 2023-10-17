@@ -463,8 +463,8 @@
           transform: scale(-1, -1); }
 
 .fa-rotate-by {
-  -webkit-transform: rotate(var(--fa-rotate-angle, none));
-          transform: rotate(var(--fa-rotate-angle, none)); }
+  -webkit-transform: rotate(var(--fa-rotate-angle, ));
+          transform: rotate(var(--fa-rotate-angle, )); }
 
 .fa-stack {
   display: inline-block;
